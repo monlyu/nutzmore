@@ -104,7 +104,7 @@ Jedisque的作者很坑啊, 依赖的jedis只能2.7.2, 关键2.7.3以上版本�
 <repositories>
 		<repository>
 			<id>nutzcn-snapshots</id>
-			<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+			<url>http://8go.win:4508/repository/nutzcn-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>

@@ -48,7 +48,7 @@
 			</repository>
 			<repository>
 				<id>nutzcn-snapshots</id>
-				<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+				<url>http://8go.win:4508/repository/nutzcn-snapshots/</url>
 				<snapshots>
 					<enabled>true</enabled>
 				</snapshots>

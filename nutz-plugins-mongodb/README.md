@@ -24,7 +24,7 @@ MongoDB 驱动的薄封装
 	<repositories>
 		<repository>
 			<id>nutzcn-snapshots</id>
-			<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+			<url>http://8go.win:4508/repository/nutzcn-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
@@ -42,7 +42,7 @@ MongoDB 驱动的薄封装
 
 也可以将repositories配置放入$HOME/.m2/settings.xml中
 
-或者直接去[快照库下载](https://jfrog.nutz.cn/artifactory/snapshots/org/nutz/nutzmongo/1.r.65-SNAPSHOT/)
+或者直接去[快照库下载](http://8go.win:4508/repository/nutzcn-snapshots//org/nutz/nutzmongo/1.r.65-SNAPSHOT/)
 
 # 声明Ioc Bean
 

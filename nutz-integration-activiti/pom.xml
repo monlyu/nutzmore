@@ -95,7 +95,7 @@
 		<snapshotRepository>
 			<id>nutzcn-snapshots</id>
 			<name>NutzCN snapshot repository</name>
-			<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+			<url>http://8go.win:4508/repository/nutzcn-snapshots/</url>
 		</snapshotRepository>
 
 		<repository>

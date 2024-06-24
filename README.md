@@ -19,13 +19,13 @@
 
 # 快照版地址
 
-https://jfrog.nutz.cn/artifactory/snapshots/org/nutz/
+http://8go.win:4508/repository/nutzcn-snapshots//org/nutz/
 
 ```xml
 	<repositories>
 		<repository>
 			<id>nutzcn-snapshots</id>
-			<url>https://jfrog.nutz.cn/artifactory/snapshots</url>
+			<url>http://8go.win:4508/repository/nutzcn-snapshots/</url>
 			<snapshots>
 				<enabled>true</enabled>
 			</snapshots>
